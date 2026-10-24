@@ -1,0 +1,10 @@
+data/*.csv
+data/.cache.pkl
+node_modules/
+frontend/dist/
+frontend/.angular/
+.venv/
+__pycache__/
+*.pyc
+.idea
+.gitattributes
